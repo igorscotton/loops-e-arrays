@@ -19,6 +19,7 @@ public class Ex6_Fatorial {
        }
 
        System.out.println("Valor do fatorial: " + total);
+       scan.close();
     }
 
 }

@@ -38,5 +38,6 @@ public class Consoantes {
                 System.out.print(consoante + " "); //imprima a consoante
         }
         System.out.println("Quantidade de consoantes: " + quantidadeDeConsoantes);
+        scan.close();
     }
 }

@@ -30,5 +30,6 @@ public class NomeEIdade {
             //imprima o nome e a idade
             System.out.println("Nome: " + nome + " - idade: " + idade);
         }
+        scan.close();
     }
 }

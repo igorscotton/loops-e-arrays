@@ -1,8 +1,6 @@
 package br.com.dio.exercicios.arrays.comentado;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+
 
 /*
 Crie um vetor de 6 números inteiros

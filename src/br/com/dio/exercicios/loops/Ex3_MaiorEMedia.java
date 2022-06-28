@@ -23,6 +23,6 @@ public class Ex3_MaiorEMedia {
 
         System.out.println("O maior número é: " + maior);
         System.out.println("A média é: " + (total/5));
-
+        scan.close();
     }
 }

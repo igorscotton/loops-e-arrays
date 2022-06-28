@@ -34,6 +34,7 @@ public class MaiorEMedia {
 
         //imprimindo o maior número digtados e a média dos mesmos
         System.out.println("Maior: " + maior + " - Média: " + media);
+        scan.close();
     }
 
 }

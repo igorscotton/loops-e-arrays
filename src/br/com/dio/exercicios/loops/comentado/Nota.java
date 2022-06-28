@@ -21,6 +21,7 @@ public class Nota {
         }
 
         System.out.println("Nota: " + nota); //imprimindo a nota válida
+        scan.close();
     }
 
 }

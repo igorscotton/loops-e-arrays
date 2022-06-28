@@ -28,5 +28,6 @@ public class Ex4_ParEImpar {
 
         System.out.println("Quantidade de Números Pares: " + par);
         System.out.println("Quantidade de Números Impares: " + impar);
+        scan.close();
     }
 }
